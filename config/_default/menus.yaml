@@ -8,9 +8,9 @@ main:
     url: '#about'
     weight: 10
   - name: Experience
-    url: '#exp'
+    url: '#project'
     weight: 20
-    
+
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
 #  - name: CV
