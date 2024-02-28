@@ -43,6 +43,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: experience
+    id: exp
     content:
       title: Research Experience
       # Date format for experience
@@ -57,7 +58,7 @@ sections:
         - title: PhD Researcher
           company: Western University
           company_url: 'https://www.uwo.ca/stats/graduate/index.html'
-          company_logo: West
+          company_logo: org-x
           location: London, Ontario
           date_start: '2021-09-01'
           date_end: ''
@@ -70,7 +71,7 @@ sections:
         - title: Graduate Teaching Assistant
           company: Western University
           company_url: 'https://www.uwo.ca/stats/graduate/index.html'
-          company_logo: West
+          company_logo: org-x
           location: London, Ontario
           date_start: '2020-01-01'
           date_end: ''
