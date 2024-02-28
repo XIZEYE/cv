@@ -57,7 +57,7 @@ sections:
         - title: PhD Researcher
           company: Western University
           company_url: 'https://www.uwo.ca/stats/graduate/index.html'
-          company_logo: SSRN
+          company_logo: West.png
           location: London, Ontario
           date_start: '2021-09-01'
           date_end: ''
@@ -70,7 +70,7 @@ sections:
         - title: Graduate Teaching Assistant
           company: Western University
           company_url: 'https://www.uwo.ca/stats/graduate/index.html'
-          company_logo: org-x
+          company_logo: West.png
           location: London, Ontario
           date_start: '2020-01-01'
           date_end: ''
