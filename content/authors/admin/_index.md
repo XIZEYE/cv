@@ -33,7 +33,6 @@ interests:
   - Computational Finance
   - Probability Theory
   - GARCH option pricing
-  - Stochastic Volatility
 
 # Education to show in About widget
 education:
@@ -53,15 +52,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6340174
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/xize-ye-912380114/?originalSubdomain=ca
-  - icon: envelope
-    icon_pack: fas
-    link: "mailto:xye46@uwo.ca"
   - icon: graduation-cap
     icon_pack: fas
     link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6340174
