@@ -53,8 +53,17 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: academic-cap
-    icon_pack: hero
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6340174
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/xize-ye-912380114/?originalSubdomain=ca
+  - icon: envelope
+    icon_pack: fas
+    link: "mailto:xye46@uwo.ca"
+  - icon: graduation-cap
+    icon_pack: fas
     link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6340174
   - icon: linkedin
     icon_pack: fab
@@ -68,7 +77,6 @@ social:
 #  - icon: github
 #    icon_pack: fab
 #    link: https://github.com/gcushen
-
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
