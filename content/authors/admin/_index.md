@@ -57,7 +57,7 @@ social:
     link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6340174
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/xize-ye
+    link: https://www.linkedin.com/in/xize-ye
   - icon: envelope
     icon_pack: fas
     link: "mailto:xye46@uwo.ca"
@@ -78,4 +78,4 @@ social:
 highlight_name: true
 ---
 
-Xize is a current PhD candidate in Statistics at [Western University](https://gohugo.io/), supervised by [Prof. Marcos Escobar](https://www.uwo.ca/stats/people/bios/marcos-escobar-anel.html) and [Prof. Lars Stentoft](https://economics.uwo.ca/people/faculty/stentoft.html). His research work focuses on a novel class of Generalized Autoregressive Conditionally Stochastic Heteroskedasticity (GARCSH) models and its applications in pricing asset and volatility derivatives.
+Xize is a current PhD candidate in Statistics at [Western University](https://www.uwo.ca/stats/index.html), supervised by [Prof. Marcos Escobar](https://www.uwo.ca/stats/people/bios/marcos-escobar-anel.html) and [Prof. Lars Stentoft](https://economics.uwo.ca/people/faculty/stentoft.html). His research work focuses on a novel class of Generalized Autoregressive Conditionally Stochastic Heteroskedasticity (GARCSH) models and its applications in pricing asset and volatility derivatives.
